@@ -1,0 +1,6 @@
+Executável presente na pasta TrabalhoPraticoDSS > dist.
+
+Os elementos do grupo,
+André Vieira
+Eduardo Rocha
+Ricardo Neves
