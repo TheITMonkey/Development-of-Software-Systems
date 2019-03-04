@@ -1,2 +1,2 @@
-# DSS
-Projeto de Desenvolvimento de Sistemas de Software
+# Development of Software Systems
+University of Minho
